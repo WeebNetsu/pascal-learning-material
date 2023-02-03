@@ -1,0 +1,22 @@
+What is pascal and why learn it (https://www.tutorialspoint.com/pascal/pascal_overview.htm can be helpful)
+Installing and running pascal on Linux (fpc (free pascal))
+Installing and running pascal on Windows (Delphi)
+1. Hello World
+2. Variables and data types
+12. User input
+3. Sub and numeral variables
+4. Math
+5. If statements
+6. Case Statements
+7. For loops
+8. While and Repeat Loops
+13. Arrays [for loops]
+9. Procedures
+10. Functions
+11. Scopes [Procedures]
+15. Records [Arrays]
+14. Pointers [if statements]
+
+
+[todo?]
+working with strings
